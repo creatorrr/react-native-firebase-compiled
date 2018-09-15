@@ -88,3 +88,5 @@ README.md
 /src
 *.coverage.json
 .opensource
+!dist
+!es5
